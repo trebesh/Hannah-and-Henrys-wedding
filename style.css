@@ -1,5 +1,5 @@
 body {
-    font-family: Brittany, Quicksand, Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
     background-color: #fdf6f0;
     margin: 0;
     padding: 0;
@@ -11,7 +11,15 @@ body {
 }
 
 h1 {
+    font-family: 'Great Vibes', cursive;
     font-size: 3em;
+    color: #8b5e3c;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
     color: #8b5e3c;
     margin-bottom: 10px;
 }
