@@ -1,6 +1,6 @@
 body {
     font-family: Montserrat, Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #fdf6f0;
+    background-color: #ddc5a9;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -13,39 +13,25 @@ body {
 h1 {
     font-family: 'Great Vibes', sans-serif;
     font-size: 3em;
-    color: #8b5e3c;
+    color: #8894b7;
     margin-bottom: 10px;
 }
 
 h2 {
     font-family: Montserrat, sans-serif;
     font-size: 2em;
-    color: #8b5e3c;
+    color: #f5c74d;
     margin-bottom: 10px;
 }
 
 .details {
     font-size: 1.5em;
-    color: #5a3e2b;
+    color: #8894b7;
     margin-bottom: 20px;
 }
 
 .date-location {
     font-size: 1.2em;
-    color: #3e2a1e;
+    color: #8894b7;
     margin-bottom: 30px;
-}
-
-.rsvp-button {
-    display: inline-block;
-    padding: 12px 24px;
-    background-color: #d4a373;
-    color: white;
-    text-decoration: none;
-    font-size: 1em;
-    border-radius: 5px;
-}
-
-.rsvp-button:hover {
-    background-color: #c58b5f;
 }
