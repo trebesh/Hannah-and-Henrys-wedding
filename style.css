@@ -1,6 +1,15 @@
+/* 
+Cream #FFFEF4
+Venice #919EC0
+Linen #E1CCb1
+Shine #F7CE58
+Marigold #E59D2C
+Police Blue #2E4365
+*/
+
 body {
     font-family: Montserrat, Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #ddc5a9;
+    background-color: #FFFEF4;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -13,25 +22,25 @@ body {
 h1 {
     font-family: 'Great Vibes', sans-serif;
     font-size: 3em;
-    color: #8894b7;
+    color: #919EC0;
     margin-bottom: 10px;
 }
 
 h2 {
     font-family: Montserrat, sans-serif;
     font-size: 2em;
-    color: #f5c74d;
+    color: #F7CE58;
     margin-bottom: 10px;
 }
 
 .details {
     font-size: 1.5em;
-    color: #8894b7;
+    color: #2E4365;
     margin-bottom: 20px;
 }
 
 .date-location {
     font-size: 1.2em;
-    color: #8894b7;
+    color: #2E4365;
     margin-bottom: 30px;
 }
